@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @jalonsoluc
-- 👀 I’m interested in AI, machine learning, data science & analytics
-- 🌱 I’m currently learning Python, R
-- 💞️ I’m looking to collaborate on: nothing atm
+- 👀 I’m interested in deep learning and big data
+- 🌱 I’m currently learning Python, R, Ruby, SQL
 - 📫 How to reach me: jalonsol@uc.cl
